@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import App from './app.jsx';
+import App from './App.jsx';
 
 const Index = () => {
-  return <div>Welcome to Trivi!
+  return <div>
     <App />
   </div>;
 };
