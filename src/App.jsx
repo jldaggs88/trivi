@@ -37,7 +37,6 @@ const App = () => {
             <Landing />
             <button className="enter-btn" onClick={
               () => setShowLanding(false)}>
-                Button here
             </button>
           </div>
         : 
