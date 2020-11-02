@@ -1,7 +1,5 @@
 # trivi
 
-be sure to use nvm version 12
-
 Have some fun preparing for you next trivia game night with TRIVI! A mobile-first trivia training application designed for winners! 
 
 ## Getting Started
@@ -27,9 +25,9 @@ A step by step series of examples that tell you how to get a development env run
 - [Webpack](https://maven.apache.org/) - Module Bundle
 - [Babel](http://www.dropwizard.io/1.0.2/docs/) - Javascript Compiler
 - [Express.js](https://maven.apache.org/) - Server Framework
-- [Node.js](https://nodejs.org/en/) - JavaScript Runtime
+- [Node.js](https://nodejs.org/en/) - JavaScript Runtime - Verison 12
 
-## Developed By: Jessa Daggs
+## Developed By
 
 [Jessa Daggs](https://github.com/jldaggs88)
 
