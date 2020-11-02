@@ -34,4 +34,4 @@ A step by step series of examples that tell you how to get a development env run
 
 ## Acknowledgments
 
-This project was my submission for the Tandem Coding Challenge. I hope it shows how much I had developing it! Thank you for checking out my work and I'd love to hear your feedback!
+This project was my submission for the Tandem Coding Challenge. I hope it shows how much fun I had developing it! Thank you for checking out my work and I'd love to hear your feedback!
