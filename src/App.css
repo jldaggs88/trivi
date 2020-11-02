@@ -88,3 +88,9 @@ html, body {
   width: 184px;
   height: 80px;
 }
+
+.app .trivia-meme {
+  border: 15px solid limegreen;
+  height: min-content;
+  width: min-content;
+}
