@@ -1,9 +1,10 @@
 import React from 'react';
+import banner from '../../Branding/banner.png';
 
 const Header = () => {
   return (
     <div className="header">
-      Header here
+      <img src={banner} alt="" className="banner" />
     </div>
   );
 };

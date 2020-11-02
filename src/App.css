@@ -1,0 +1,72 @@
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  text-align: -webkit-center;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+}
+
+.landing-view {
+  position: relative;
+}
+
+.landing-view .enter-btn {
+  position: absolute;
+  top: 65%;
+  left: 80%;
+  transform: translate(-65%, -70%);
+  height: 82px;
+  width: 700px;
+}
+
+.header .banner {
+  height: 100px;
+  top: 0;
+}
+
+.app .outer {
+  text-align: -webkit-center;
+}
+
+.app .prompt {
+  border: 3px solid	#008000;
+}
+
+.app .question {
+  color: whitesmoke;
+  font-size: 24px;
+}
+
+.app .count {
+  color: rgb(243, 201, 32);
+}
+
+.app .answer-options {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.app .option-btn {
+  width: 100%;
+  font-size: 16px;
+  padding: 5px;
+  cursor: pointer;
+  color: #ffffff;
+  background-color: rebeccapurple;
+  border-radius: 15px;
+  justify-content: flex-start;
+  align-items: center;
+  border: 5px solid black;
+}
+
+.app .score {
+  color: rgb(243, 201, 32);
+  font-size: xx-large;
+}
+
